@@ -1,8 +1,0 @@
-server:
-    port:8081
-eureka:
-  client:
-    service-url:
-      defaultZone: http://192.168.211.139:8066/eureka
-girl:
-  info: I am Pro
